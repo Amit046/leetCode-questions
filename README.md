@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Amit046/leetCode-questions/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Amit046/leetCode-questions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Amit046/leetCode-questions/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amit046/leetCode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amit046/leetCode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Amit046/leetCode-questions/tree/master/0125-valid-palindrome) |
 | [0905-sort-array-by-parity](https://github.com/Amit046/leetCode-questions/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
