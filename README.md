@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Amit046/leetCode-questions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Amit046/leetCode-questions/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Amit046/leetCode-questions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Amit046/leetCode-questions/tree/master/1108-defanging-an-ip-address) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amit046/leetCode-questions/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Amit046/leetCode-questions/tree/master/1672-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Amit046/leetCode-questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
