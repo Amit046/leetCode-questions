@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Amit046/leetCode-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Amit046/leetCode-questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Amit046/leetCode-questions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amit046/leetCode-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Amit046/leetCode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Amit046/leetCode-questions/tree/master/1672-richest-customer-wealth) |
 | [3488-closest-equal-element-queries](https://github.com/Amit046/leetCode-questions/tree/master/3488-closest-equal-element-queries) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amit046/leetCode-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amit046/leetCode-questions/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amit046/leetCode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3488-closest-equal-element-queries](https://github.com/Amit046/leetCode-questions/tree/master/3488-closest-equal-element-queries) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amit046/leetCode-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
