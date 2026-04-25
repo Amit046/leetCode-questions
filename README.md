@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amit046/leetCode-questions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Amit046/leetCode-questions/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/Amit046/leetCode-questions/tree/master/1929-concatenation-of-array) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amit046/leetCode-questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Amit046/leetCode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Amit046/leetCode-questions/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/Amit046/leetCode-questions/tree/master/1929-concatenation-of-array) |
 | [3488-closest-equal-element-queries](https://github.com/Amit046/leetCode-questions/tree/master/3488-closest-equal-element-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amit046/leetCode-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
