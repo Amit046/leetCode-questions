@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Amit046/leetCode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Amit046/leetCode-questions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Amit046/leetCode-questions/tree/master/1929-concatenation-of-array) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Amit046/leetCode-questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3488-closest-equal-element-queries](https://github.com/Amit046/leetCode-questions/tree/master/3488-closest-equal-element-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amit046/leetCode-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amit046/leetCode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Amit046/leetCode-questions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Amit046/leetCode-questions/tree/master/1025-divisor-game) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Amit046/leetCode-questions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Amit046/leetCode-questions/tree/master/1480-running-sum-of-1d-array) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Amit046/leetCode-questions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amit046/leetCode-questions/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Amit046/leetCode-questions/tree/master/1672-richest-customer-wealth) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Amit046/leetCode-questions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Stack
 |  |
 | ------- |
