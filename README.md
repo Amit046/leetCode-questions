@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amit046/leetCode-questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Amit046/leetCode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amit046/leetCode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Amit046/leetCode-questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Amit046/leetCode-questions/tree/master/0053-maximum-subarray) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Amit046/leetCode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Amit046/leetCode-questions/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/Amit046/leetCode-questions/tree/master/0912-sort-an-array) |
 ## Greedy
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Amit046/leetCode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amit046/leetCode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Amit046/leetCode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [3488-closest-equal-element-queries](https://github.com/Amit046/leetCode-questions/tree/master/3488-closest-equal-element-queries) |
