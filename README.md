@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Amit046/leetCode-questions/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Amit046/leetCode-questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Amit046/leetCode-questions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Amit046/leetCode-questions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Amit046/leetCode-questions/tree/master/0412-fizz-buzz) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Amit046/leetCode-questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Amit046/leetCode-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Amit046/leetCode-questions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Amit046/leetCode-questions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Amit046/leetCode-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Amit046/leetCode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Amit046/leetCode-questions/tree/master/0242-valid-anagram) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amit046/leetCode-questions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Amit046/leetCode-questions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Amit046/leetCode-questions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Amit046/leetCode-questions/tree/master/1929-concatenation-of-array) |
 ## Array
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Amit046/leetCode-questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Amit046/leetCode-questions/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
