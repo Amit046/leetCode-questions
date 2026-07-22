@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Amit046/leetCode-questions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Amit046/leetCode-questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Amit046/leetCode-questions/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Amit046/leetCode-questions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Amit046/leetCode-questions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Amit046/leetCode-questions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Amit046/leetCode-questions/tree/master/0509-fibonacci-number) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Amit046/leetCode-questions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Amit046/leetCode-questions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Amit046/leetCode-questions/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Amit046/leetCode-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Amit046/leetCode-questions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
