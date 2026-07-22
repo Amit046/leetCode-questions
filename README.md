@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Amit046/leetCode-questions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Amit046/leetCode-questions/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Amit046/leetCode-questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Amit046/leetCode-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Amit046/leetCode-questions/tree/master/1929-concatenation-of-array) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Amit046/leetCode-questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3488-closest-equal-element-queries](https://github.com/Amit046/leetCode-questions/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Amit046/leetCode-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amit046/leetCode-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amit046/leetCode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Amit046/leetCode-questions/tree/master/0875-koko-eating-bananas) |
 | [3488-closest-equal-element-queries](https://github.com/Amit046/leetCode-questions/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Amit046/leetCode-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Queue
 |  |
 | ------- |
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Amit046/leetCode-questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Amit046/leetCode-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Amit046/leetCode-questions/tree/master/0876-middle-of-the-linked-list) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Amit046/leetCode-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
